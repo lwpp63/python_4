@@ -10,4 +10,4 @@ start = datetime.datetime.now()
 if __name__ == '__main__':
     print_hi(f'Python_4 started in {start.strftime("%c")}')
     print(f"Это файл: var.py")
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+    print("Это файл: var.py с добавлением строки")
